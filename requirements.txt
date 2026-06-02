@@ -1,0 +1,4 @@
+Flask>=2.0
+pylint>=2.0
+ibm-watson>=6.0
+ibm-cloud-sdk-core>=3.0
